@@ -2,15 +2,15 @@
 
 
    <photography>
-<apptitle>Birthday Photo Frames</apptitle>
+<apptitle>Diwali Photo Frames</apptitle>
 <applink>market://details?id=com.tajdreamapps.editor.diwaliphotoframe</applink>
-<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/dussehraad.png</appicon>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/diwaliframe.png</appicon>
 </photography>
 
    <photography>
-<apptitle>Navratri Photo Frames</apptitle>
-<applink>market://details?id=com.feelmobileapps.photoframe.navratri</applink>
-<appicon>https://raw.githubusercontent.com/feelmobileapps/First/master/icons/navratriad.png</appicon>
+<apptitle>Waterfall Photo Frames</apptitle>
+<applink>market://details?id=com.tajdreamapps.editor.waterfallphotoframe</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/waterfallframe.png.png</appicon>
 </photography>
    
   
