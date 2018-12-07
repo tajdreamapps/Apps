@@ -2,16 +2,23 @@
 
 
    <photography>
-<apptitle>Diwali Photo Frames</apptitle>
-<applink>market://details?id=com.tajdreamapps.editor.diwaliphotoframe</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/diwaliframe.png</appicon>
+<apptitle>Christmas Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.christmasphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/christmaspf.png</appicon>
 </photography>
 
    <photography>
-<apptitle>Waterfall Photo Frames</apptitle>
-<applink>market://details?id=com.tajdreamapps.editor.waterfallphotoframe</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/waterfallframe.png</appicon>
+<apptitle>Christmas Greetings</apptitle>
+<applink>market://details?id=com.krapps.editor.christmasgreetings</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/christmasgreetings.png</appicon>
 </photography>
    
+    <photography>
+<apptitle>Valentine Day Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.valentinesdayphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/valentinepf.png</appicon>
+</photography>
+
+
   
 </photographyapps>
