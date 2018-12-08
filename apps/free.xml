@@ -19,6 +19,10 @@
 <appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/valentinepf.png</appicon>
 </photography>
 
-
+    <photography>
+<apptitle>New Year 2019 Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.editor.newyearphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/newyearpf.PNG</appicon>
+</photography>
   
 </photographyapps>
