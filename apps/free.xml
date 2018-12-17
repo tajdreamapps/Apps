@@ -26,6 +26,10 @@
 <appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/valentinepf.png</appicon>
 </photography>
 
-
+<photography>
+<apptitle>Jummah Frames</apptitle>
+<applink>market://details?id=com.krapps.editor.jummamubarak</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/jummah.PNG</appicon>
+</photography>
   
 </photographyapps>
