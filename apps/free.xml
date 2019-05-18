@@ -1,11 +1,21 @@
 <photographyapps>  
 
-
-   <photography>
-      
-<apptitle>Mahavir Jayanti 2019 Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.mahavirjayantiphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/mahavirjayanti.png</appicon>
+<photography>    
+<apptitle>Ramzan 2019 Photo Frames HD</apptitle>
+<applink>market://details?id=com.krapps.ramzanphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/ramzan.png</appicon>
+</photography>
+   
+<photography>   
+<apptitle>Eid Mubarak 2019 Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.eidmubarakphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/eidmubarak.png</appicon>
+</photography>
+   
+<photography>
+<apptitle>Ramadan Mubarak Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.ramadanmubarakphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/ramadan.png</appicon>
 </photography>
    
 <photography>
@@ -14,9 +24,4 @@
 <appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/jummah.PNG</appicon>
 </photography>
   
-   <photography>
-<apptitle>Ramadan Mubarak Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.ramadanmubarakphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/ramadan.png</appicon>
-</photography>
 </photographyapps>
