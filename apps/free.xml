@@ -1,27 +1,39 @@
 <photographyapps>  
 
 <photography>    
-<apptitle>Ramzan 2019 Photo Frames HD</apptitle>
-<applink>market://details?id=com.krapps.ramzanphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/ramzan.png</appicon>
+<apptitle>Happy Onam 2019 Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.onamphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/onam.PNG</appicon>
 </photography>
    
 <photography>   
-<apptitle>Eid Mubarak 2019 Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.eidmubarakphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/eidmubarak.png</appicon>
+<apptitle>Ganesh Chaturthi Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.ganeshchaturthiphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/ganesh.PNG</appicon>
 </photography>
    
 <photography>
-<apptitle>Ramadan Mubarak Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.ramadanmubarakphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/ramadan.png</appicon>
+<apptitle>Maa Durga Pooja Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.durgapoojaphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/durgamaa.PNG</appicon>
 </photography>
    
 <photography>
-<apptitle>Jumma Mubarak Frames</apptitle>
-<applink>market://details?id=com.krapps.editor.jummamubarak</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/jummah.PNG</appicon>
+<apptitle>Happy Dussehra Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.dussehraphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/dussehra.PNG</appicon>
+</photography>
+   
+<photography>
+<apptitle>Navratri Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.navratriphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/navratri.PNG</appicon>
+</photography>
+   
+<photography>
+<apptitle>Goddess Durga Maa Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.durgamaaphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/durgashtami.PNG</appicon>
 </photography>
   
 </photographyapps>
