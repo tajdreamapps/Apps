@@ -1,17 +1,4 @@
 <photographyapps>  
-
-<photography>    
-<apptitle>Happy Onam 2019 Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.onamphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/onam.PNG</appicon>
-</photography>
-   
-<photography>   
-<apptitle>Ganesh Chaturthi Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.ganeshchaturthiphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/ganesh.PNG</appicon>
-</photography>
-   
 <photography>
 <apptitle>Maa Durga Pooja Photo Frames</apptitle>
 <applink>market://details?id=com.krapps.durgapoojaphotoframes</applink>
