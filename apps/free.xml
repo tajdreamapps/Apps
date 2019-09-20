@@ -1,4 +1,10 @@
 <photographyapps>  
+   <photography>
+<apptitle>Gandhi Jayanti Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.gandhijayantiphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/gandhijayanti.PNG</appicon>
+</photography>
+   
 <photography>
 <apptitle>Maa Durga Pooja Photo Frames</apptitle>
 <applink>market://details?id=com.krapps.durgapoojaphotoframes</applink>
