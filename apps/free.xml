@@ -22,6 +22,19 @@
 <applink>market://details?id=com.krapps.durgamaaphotoframes</applink>
 <appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/durgashtami.PNG</appicon>
 </photography>
+   
+   <photography>
+<apptitle>Lakshmi Devi Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.lakshmideviphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/lakshmipooja.png</appicon>
+</photography>
+   
+<photography>
+<apptitle>Diwali Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.diwaliphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/diwali.PNG</appicon>
+</photography>
+   
    <photography>
 <apptitle>Karwa Chauth 2019 Photo Frames</apptitle>
 <applink>market://details?id=com.krapps.karwachauthphotoframes</applink>
