@@ -1,10 +1,5 @@
 <photographyapps> 
 <photography>
-<apptitle>Holi Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.holiphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/holi.PNG</appicon>
-</photography>
-<photography>
 <apptitle>Ugadi Photo Frames</apptitle>
 <applink>market://details?id=com.krapps.ugadiphotoframes</applink>
 <appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/ugadi.PNG</appicon>
