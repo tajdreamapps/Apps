@@ -1,4 +1,9 @@
 <photographyapps> 
+  <photography>
+<apptitle>Easter Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.easterdayphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/easter.PNG</appicon>
+</photography>
 <photography>
 <apptitle>Wedding Photo Frames</apptitle>
 <applink>market://details?id=com.krapps.weddingphotoframes</applink>
