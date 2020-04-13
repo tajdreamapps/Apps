@@ -1,8 +1,13 @@
 <photographyapps> 
   <photography>
-<apptitle>Easter Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.easterdayphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/easter.PNG</appicon>
+<apptitle>Ambedkar Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.ambedkarphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/ambedkar.PNG</appicon>
+</photography>
+<photography>
+<apptitle>Garden Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.gardenphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/garden.PNG</appicon>
 </photography>
 <photography>
 <apptitle>Wedding Photo Frames</apptitle>
@@ -13,11 +18,6 @@
 <apptitle>Village Photo Frames</apptitle>
 <applink>market://details?id=com.krapps.villagephotoframes</applink>
 <appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/village.png</appicon>
-</photography>
-<photography>
-<apptitle>Garden Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.gardenphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/garden.PNG</appicon>
 </photography>
 <photography>
 <apptitle>Waterfall Photo Frames</apptitle>
