@@ -1,0 +1,43 @@
+<photographyapps> 
+
+<photography>
+<apptitle>Garden Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.gardenphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/garden.PNG</appicon>
+</photography>
+<photography>
+<apptitle>Wedding Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.weddingphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/wedding.PNG</appicon>
+</photography>
+<photography>
+<apptitle>Buddha Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.buddhaphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/buddhaicon.PNG</appicon>
+</photography>
+<photography>
+<apptitle>Village Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.villagephotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/village.png</appicon>
+</photography>
+<photography>
+<apptitle>Waterfall Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.waterfallphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/waterfall.PNG</appicon>
+</photography>
+<photography>
+<apptitle>Parrot Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.parrotphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/parrot.PNG</appicon>
+</photography>
+<photography>
+<apptitle>Peacock Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.peacockphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/peacock.PNG</appicon>
+</photography>
+<photography>
+<apptitle>Love Birds Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.lovebirdsphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/lovebirds.PNG</appicon>
+</photography>
+</photographyapps>
