@@ -1,13 +1,28 @@
 <photographyapps> 
 <photography>
-<apptitle>Ganesh Chaturthi Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.ganeshchaturthiphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/ganeshchaturthi.PNG</appicon>
+<apptitle>Dhanteras 2020 Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.dhanterasphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/dhanteras.png</appicon>
 </photography>
 <photography>
-<apptitle>Happy Onam Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.onamphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/onam.PNG</appicon>
+<apptitle>Diwali 2020 Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.diwaliphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/diwali.PNG</appicon>
+</photography>
+<photography>
+<apptitle>Teachers Day Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.teachersdayphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/teachersday.PNG</appicon>
+</photography>
+<photography>
+<apptitle>Chhat Puja 2020 Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.chhatpujaphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/chhatpuja.PNG</appicon>
+</photography>
+<photography>
+<apptitle>Guru Nanak Jayanti Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.gurunanakjayantiphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/gurunanak.PNG</appicon>
 </photography>
 <photography>
 <apptitle>Anniversary Photo Frames</apptitle>
@@ -23,11 +38,6 @@
 <apptitle>Wedding Photo Frames</apptitle>
 <applink>market://details?id=com.krapps.weddingphotoframes</applink>
 <appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/wedding.PNG</appicon>
-</photography>
-<photography>
-<apptitle>Buddha Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.buddhaphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/buddhaicon.PNG</appicon>
 </photography>
 <photography>
 <apptitle>Village Photo Frames</apptitle>
