@@ -1,4 +1,24 @@
-<photographyapps> 
+<photographyapps>
+<photography>
+<apptitle>Christmas Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.christmasphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/christmas.PNG</appicon>
+</photography> 
+<photography>
+<apptitle>Christmas 2020 Greeting Cards</apptitle>
+<applink>market://details?id=com.krapps.editor.christmasgreetings</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/christmasgreeting.png</appicon>
+</photography> 
+<photography>
+<apptitle>New Year 2021 Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.editor.newyearphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/newyear.PNG</appicon>
+</photography> 
+<photography>
+<apptitle>New Year Greeting Cards</apptitle>
+<applink>market://details?id=com.krapps.newyeargreetingcards</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/newyeargreeting.PNG</appicon>
+</photography>
 <photography>
 <apptitle>Anniversary Photo Frames</apptitle>
 <applink>market://details?id=com.krapps.anniversaryphotoframes</applink>
