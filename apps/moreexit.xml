@@ -1,13 +1,18 @@
 <photographyapps>
 <photography>
-<apptitle>Makara Sankarnti 2021 Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.sankrantiphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/sankranti.png</appicon>
-</photography>
+<apptitle>Lohri 2021 Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.lohriphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/lohri.PNG</appicon>
+</photography> 
 <photography>
 <apptitle>Pongal Photo Frames 2021</apptitle>
 <applink>market://details?id=com.krapps.pongalphotoframes</applink>
 <appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/pongalicon.png</appicon>
+</photography>
+<photography>
+<apptitle>Makara Sankarnti 2021 Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.sankrantiphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/sankranti.png</appicon>
 </photography>
 <photography>
 <apptitle>Anniversary Photo Frames</apptitle>
