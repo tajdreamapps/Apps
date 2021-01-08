@@ -1,13 +1,13 @@
 <photographyapps>
 <photography>
-<apptitle>Makara Sankarnti Photo Frames</apptitle>
+<apptitle>Makara Sankarnti 2021 Photo Frames</apptitle>
 <applink>market://details?id=com.krapps.sankrantiphotoframes</applink>
 <appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/sankranti.png</appicon>
 </photography>
 <photography>
-<apptitle>Pongal Photo Frames</apptitle>
+<apptitle>Pongal Photo Frames 2021</apptitle>
 <applink>market://details?id=com.krapps.pongalphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/pongal.png</appicon>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/pongalicon.png</appicon>
 </photography>
 <photography>
 <apptitle>Anniversary Photo Frames</apptitle>
@@ -27,7 +27,7 @@
 <photography>
 <apptitle>Village Photo Frames</apptitle>
 <applink>market://details?id=com.krapps.villagephotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/village.png</appicon>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/villageicon.png</appicon>
 </photography>
 <photography>
 <apptitle>Waterfall Photo Frames</apptitle>
