@@ -1,5 +1,25 @@
 <photographyapps>
 <photography>
+<apptitle>Easter Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.easterphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/easter.PNG</appicon>
+</photography>
+<photography>
+<apptitle>Ugadi Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.ugadiphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/ugadi.PNG</appicon>
+</photography>
+<photography>
+<apptitle>Vishu Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.vishuphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/vishu.png</appicon>
+</photography>
+<photography>
+<apptitle>Ambedkar Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.ambedkarphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/ambedkar.PNG</appicon>
+</photography>  
+<photography>
 <apptitle>Anniversary Photo Frames</apptitle>
 <applink>market://details?id=com.krapps.anniversaryphotoframes</applink>
 <appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/anniversary.PNG</appicon>
