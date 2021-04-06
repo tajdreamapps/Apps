@@ -1,10 +1,5 @@
 <photographyapps>   
 <photography>
-<apptitle>Easter Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.easterphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/easter.PNG</appicon>
-</photography>
-<photography>
 <apptitle>Ugadi Photo Frames</apptitle>
 <applink>market://details?id=com.krapps.ugadiphotoframes</applink>
 <appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/ugadi.PNG</appicon>
