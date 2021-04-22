@@ -1,13 +1,8 @@
 <photographyapps>
 <photography>
-<apptitle>Vishu Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.vishuphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/vishu.png</appicon>
-</photography>
-<photography>
-<apptitle>Ambedkar Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.ambedkarphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/ambedkar.PNG</appicon>
+<apptitle>Mahavir Jayanti Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.mahavirjayantiphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/mahaviricon.PNG</appicon>
 </photography>  
 <photography>
 <apptitle>Anniversary Photo Frames</apptitle>
