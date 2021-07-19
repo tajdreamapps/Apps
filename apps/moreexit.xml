@@ -1,4 +1,9 @@
-<photographyapps> 
+<photographyapps>
+<photography>
+<apptitle>Bakrid Mubarak Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.bakridmubarakphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/bakridicon.PNG</appicon>
+</photography>
 <photography>
 <apptitle>Anniversary Photo Frames</apptitle>
 <applink>market://details?id=com.krapps.anniversaryphotoframes</applink>
