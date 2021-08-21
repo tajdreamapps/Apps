@@ -1,15 +1,5 @@
 <photographyapps>
 <photography>
-<apptitle>Independence Day Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.independencedayphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/independenceday.PNG</appicon>
-</photography>
-<photography>
-<apptitle>Parsi New Year Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.parsinewyearphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/parsiyear.PNG</appicon>
-</photography>
-<photography>
 <apptitle>Onam Photo Frames</apptitle>
 <applink>market://details?id=com.krapps.onamphotoframes</applink>
 <appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/onam.PNG</appicon>
