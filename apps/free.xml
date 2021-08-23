@@ -1,15 +1,5 @@
 <photographyapps> 
 <photography>
-<apptitle>Onam Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.onamphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/onam.PNG</appicon>
-</photography>
-<photography>
-<apptitle>Rakhi Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.rakhiphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/rakhi.PNG</appicon>
-</photography>  
-<photography>
 <apptitle>Krishna Janmashtami Photo Frames</apptitle>
 <applink>market://details?id=com.krapps.krishnajanmashtamiphotoframes</applink>
 <appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/janmashtami.PNG</appicon>
