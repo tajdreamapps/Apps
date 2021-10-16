@@ -18,7 +18,12 @@
 <apptitle>Navratri Photo Frames</apptitle>
 <applink>market://details?id=com.krapps.navratriphotoframes</applink>
 <appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/navratri.png</appicon>
-</photography>   
+</photography>  
+<photography>
+<apptitle>Lakshmi Devi Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.lakshmideviphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/lakshmi.png</appicon>
+</photography>
 <photography>
 <apptitle>Garden Photo Frames</apptitle>
 <applink>market://details?id=com.krapps.gardenphotoframes</applink>
