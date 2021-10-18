@@ -1,30 +1,20 @@
 <photographyapps>
 <photography>
-<apptitle>Durga Maa Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.durgamaaphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/durgamaa.png</appicon>
-</photography> 
-<photography>
-<apptitle>Dussehra Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.dussehraphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/dussehra.png</appicon>
-</photography>  
-<photography>
 <apptitle>Lakshmi Devi Photo Frames</apptitle>
 <applink>market://details?id=com.krapps.lakshmideviphotoframes</applink>
 <appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/lakshmi.png</appicon>
+</photography> 
+<photography>
+<apptitle>Diwali Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.diwaliphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/diwali.png</appicon>
 </photography> 
 <photography>
 <apptitle>Anniversary Photo Frames</apptitle>
 <applink>market://details?id=com.krapps.anniversaryphotoframes</applink>
 <appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/anniversary.PNG</appicon>
 </photography>
-<photography>
-<apptitle>Diwali Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.diwaliphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/diwali.png</appicon>
-</photography>  
-<photography>
+ <photography>
 <apptitle>Garden Photo Frames</apptitle>
 <applink>market://details?id=com.krapps.gardenphotoframes</applink>
 <appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/garden.PNG</appicon>
