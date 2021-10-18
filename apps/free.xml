@@ -1,15 +1,5 @@
 <photographyapps>  
 <photography>
-<apptitle>Durga Maa Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.durgamaaphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/durgamaa.png</appicon>
-</photography> 
-<photography>
-<apptitle>Dussehra Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.dussehraphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/dussehra.png</appicon>
-</photography> 
-<photography>
 <apptitle>Lakshmi Devi Photo Frames</apptitle>
 <applink>market://details?id=com.krapps.lakshmideviphotoframes</applink>
 <appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/lakshmi.png</appicon>
