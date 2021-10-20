@@ -1,4 +1,9 @@
-<photographyapps>  
+<photographyapps> 
+<photography>
+<apptitle>Karwa Chauth Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.karwachauthphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/karwachauth.png</appicon>
+</photography>   
 <photography>
 <apptitle>Diwali Photo Frames</apptitle>
 <applink>market://details?id=com.krapps.diwaliphotoframes</applink>
