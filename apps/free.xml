@@ -1,24 +1,4 @@
-<photographyapps>  
-<photography>
-<apptitle>Christmas Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.christmasphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/christmas.png</appicon>
-</photography> 
-<photography>
-<apptitle>Christmas Greeting Cards</apptitle>
-<applink>market://details?id=com.krapps.editor.christmasgreetings</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/christmasgreet.png</appicon>
-</photography> 
-<photography>
-<apptitle>New Year Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.editor.newyearphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/newyear.png</appicon>
-</photography>
-<photography>
-<apptitle>New Year Greeting Cards</apptitle>
-<applink>market://details?id=com.krapps.newyeargreetingcards</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/newyeargreet.png</appicon>
-</photography>    
+<photographyapps> 
 <photography>
 <apptitle>Garden Photo Frames</apptitle>
 <applink>market://details?id=com.krapps.gardenphotoframes</applink>
@@ -30,6 +10,16 @@
 <appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/wedding.PNG</appicon>
 </photography>
 <photography>
+<apptitle>Christmas Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.christmasphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/christmas.png</appicon>
+</photography> 
+<photography>
+<apptitle>Christmas Greeting Cards</apptitle>
+<applink>market://details?id=com.krapps.editor.christmasgreetings</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/christmasgreet.png</appicon>
+</photography> 
+<photography>
 <apptitle>Village Photo Frames</apptitle>
 <applink>market://details?id=com.krapps.villagephotoframes</applink>
 <appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/villageicon.png</appicon>
@@ -39,6 +29,16 @@
 <applink>market://details?id=com.krapps.waterfallphotoframes</applink>
 <appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/waterfall.PNG</appicon>
 </photography>
+<photography>
+<apptitle>NewYear Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.editor.newyearphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/newyear.png</appicon>
+</photography>
+<photography>
+<apptitle>NewYear Greeting Cards</apptitle>
+<applink>market://details?id=com.krapps.newyeargreetingcards</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/newyeargreet.png</appicon>
+</photography>    
 <photography>
 <apptitle>Anniversary Photo Frames</apptitle>
 <applink>market://details?id=com.krapps.anniversaryphotoframes</applink>
