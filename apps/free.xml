@@ -1,13 +1,13 @@
 <photographyapps> 
 <photography>
-<apptitle>Gobind Singh Photo Frames</apptitle>
-<applink>market://details?id=com.krapps.gobindsinghphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/gobind.png</appicon>
-</photography>
-<photography>
 <apptitle>Vivekananda Photo Frames</apptitle>
 <applink>market://details?id=com.krapps.vivekanandaphotoframes</applink>
 <appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/viveka.png</appicon>
+</photography>
+<photography>
+<apptitle>Lohri Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.lohriphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/lohri.png</appicon>
 </photography>
 <photography>
 <apptitle>Sankranti Photo Frames</apptitle>
@@ -63,5 +63,10 @@
 <apptitle>Love Birds Photo Frames</apptitle>
 <applink>market://details?id=com.krapps.lovebirdsphotoframes</applink>
 <appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/lovebirds.PNG</appicon>
+</photography>
+<photography>
+<apptitle>Gobind Singh Photo Frames</apptitle>
+<applink>market://details?id=com.krapps.gobindsinghphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/tajdreamapps/Apps/master/icons/gobind.png</appicon>
 </photography>
 </photographyapps>
